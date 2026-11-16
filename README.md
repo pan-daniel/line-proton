@@ -1,5 +1,7 @@
 # line-proton
 
+English | [日本語](README.ja.md)
+
 > **Unofficial.** Not affiliated with LY Corporation. This is an AI-written ("slop") convenience tool, provided as-is. PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Run the official LINE desktop app on Linux through Proton, with [Faugus Launcher](https://github.com/Faugus/faugus-launcher) or on its own.
